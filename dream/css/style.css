@@ -1,0 +1,17 @@
+.newMain{
+    width:1000px  !important;
+    height: 2000px !important;;
+    color: #000 !important;;
+}
+.newMainleft{
+    float: left !important;;
+    width: 700px !important;;
+    height: 2000px !important;;
+    color: aliceblue !important;;
+}
+.newMainright{
+    float: right !important;;
+    width: 300px !important;;
+    height: 2000px !important;;
+    color: antiquewhite !important;;
+}
